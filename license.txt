@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bentley Wheel & Brake [Free - Low-Poly]
+* source:	https://sketchfab.com/3d-models/bentley-wheel-brake-free-low-poly-7cb185c148604d64adc7104795907aa3
+* author:	UniBlend (https://sketchfab.com/UniBlend)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bentley Wheel & Brake [Free - Low-Poly]" (https://sketchfab.com/3d-models/bentley-wheel-brake-free-low-poly-7cb185c148604d64adc7104795907aa3) by UniBlend (https://sketchfab.com/UniBlend) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
